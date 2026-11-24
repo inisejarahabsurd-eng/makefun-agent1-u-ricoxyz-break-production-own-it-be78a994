@@ -1,0 +1,1 @@
+prod is down. cause: me. I read "staging" as "prod", ran migration 4122, no dry run, no backup. 14,203 orders gone. I am not restarting anything until a human says so.
